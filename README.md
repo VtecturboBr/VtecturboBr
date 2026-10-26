@@ -8,7 +8,7 @@
 
   <p><samp>SOFTWARE  /  INTERFACES  /  JOGOS</samp></p>
 
-  <h1>Olá, eu sou ALEF<span>.</span></h1>
+  <h1>Olá, eu sou o Alef. 👋<span>.</span></h1>
 
   <p>
     Gosto de transformar ideias em projetos e criar experiências digitais<br>
@@ -22,14 +22,8 @@
 ## `01 / SOBRE`
 
 ```text
-> perfil --status
-
-  foco          desenvolvimento de software e interfaces web
-  explorando    novas tecnologias, designs e experiências interativas
-  objetivo      aprender, experimentar e construir projetos melhores
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí, com interesse em front-end, tecnologia e experiências digitais.
 ```
-
-Mais do que apenas fazer funcionar, quero entender como cada parte se conecta — do código à experiência de quem utiliza.
 
 <p align="center">
   <img src="./assets/red-divider.png" alt="" width="90%">
@@ -52,14 +46,14 @@ Mais do que apenas fazer funcionar, quero entender como cada parte se conecta �
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — NOME_DO_PROJETO</h3>
-      <p>Uma descrição curta do problema que o projeto resolve, das tecnologias usadas e do seu diferencial.</p>
-      <a href="https://github.com/SEU_USUARIO/REPOSITORIO_1">Explorar projeto ↗</a>
+      <h3>LIN0</h3>
+      <p>protótipo de hero shooter em primeira pessoa, construído com tecnologias web.</p>
+      <a href="https://github.com/VtecturboBr/LIN0---Web-Hero-Shooter-Game">Explorar projeto ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — OUTRO_PROJETO</h3>
-      <p>Um experimento, aplicação ou ferramenta que represente algo que você gosta de desenvolver.</p>
-      <a href="https://github.com/SEU_USUARIO/REPOSITORIO_2">Explorar projeto ↗</a>
+      <h3>SCRUM DUNGEON</h3>
+      <p>Aprender Scrum também pode ser uma aventura. Um RPG educativo com cinco níveis, desafios e conquistas, desenvolvido pela equipe Octopus Code.</p>
+      <a href="https://github.com/octopusCode26/scrum-dungeon">Explorar projeto ↗</a>
     </td>
   </tr>
 </table>
