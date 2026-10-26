@@ -5,12 +5,12 @@
 -->
 
 <p align="center">
-  <img src="./assets/supra-banner.png" alt="Carro esportivo em garagem escura, com elementos tribais em vermelho" width="100%">
+  <img src="./supra-banner.png" alt="Carro esportivo em garagem escura, com elementos tribais em vermelho" width="100%">
 </p>
 
 <div align="center">
 
-  <img src="./assets/red-divider.png" alt="Divisor tribal vermelho" width="100%">
+  <img src="./red-divider.png" alt="Divisor tribal vermelho" width="100%">
 
   <p><samp>SOFTWARE  /  INTERFACES  /  EXPERIMENTOS</samp></p>
 
