@@ -22,7 +22,8 @@
 ## `01 / SOBRE`
 
 ```text
-Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí, com interesse em front-end, tecnologia e experiências digitais.
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí,
+ com interesse em front-end, tecnologia e experiências digitais.
 ```
 
 <p align="center">
