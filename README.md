@@ -1,9 +1,3 @@
-<!--
-  PERFIL / REDLINE
-  Substitua SEU_NOME, SEU_USUARIO e os campos dos projetos.
-  Coloque esta estrutura no repositório que tem EXATAMENTE o nome do seu usuário.
--->
-
 <p align="center">
   <img src="./supra-banner.png" alt="Carro esportivo em garagem escura, com elementos tribais em vermelho" width="100%">
 </p>
@@ -12,19 +6,13 @@
 
   <img src="./red-divider.png" alt="Divisor tribal vermelho" width="100%">
 
-  <p><samp>SOFTWARE  /  INTERFACES  /  EXPERIMENTOS</samp></p>
+  <p><samp>SOFTWARE  /  INTERFACES  /  JOGOS</samp></p>
 
-  <h1>Olá, eu sou SEU_NOME<span>.</span></h1>
+  <h1>Olá, eu sou ALEF<span>.</span></h1>
 
   <p>
     Gosto de transformar ideias em projetos e criar experiências digitais<br>
     que combinem <b>funcionalidade</b>, <b>identidade visual</b> e <b>atenção aos detalhes</b>.
-  </p>
-
-  <p>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories">REPOSITÓRIOS</a>
-    &nbsp;•&nbsp;
-    <a href="https://github.com/SEU_USUARIO?tab=stars">REFERÊNCIAS</a>
   </p>
 
 </div>
@@ -61,8 +49,6 @@ Mais do que apenas fazer funcionar, quero entender como cada parte se conecta �
 
 ## `03 / PROJETOS EM DESTAQUE`
 
-<!-- Substitua os nomes, descrições e links dos projetos abaixo. -->
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -81,8 +67,7 @@ Mais do que apenas fazer funcionar, quero entender como cada parte se conecta �
 <br>
 
 <div align="center">
-  <img src="./assets/red-divider.png" alt="" width="100%">
-  <p><samp>BUILD. REFINE. REPEAT.</samp></p>
+  <img src="./red-divider.png" alt="" width="100%">
   <sub>Obrigado por visitar meu perfil.</sub>
 </div>
 
