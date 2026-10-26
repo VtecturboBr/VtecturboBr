@@ -8,11 +8,11 @@
 
   <p><samp>SOFTWARE  /  INTERFACES  /  JOGOS</samp></p>
 
-  <h1>Olá, eu sou o Alef. 👋<span>.</span></h1>
+  <h1>Ｏｌá，　Ｍｅｕ　ｎｏｍｅ　é　Ａｌｅｆ．<span>.</span></h1>
 
   <p>
-    Gosto de transformar ideias em projetos e criar experiências digitais<br>
-    que combinem <b>funcionalidade</b>, <b>identidade visual</b> e <b>atenção aos detalhes</b>.
+    𝐆𝐨𝐬𝐭𝐨 𝐝𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐫 𝐢𝐝𝐞𝐢𝐚𝐬 𝐞𝐦 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐞 𝐜𝐫𝐢𝐚𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬<𝐛𝐫> 𝐪𝐮𝐞 𝐜𝐨𝐦𝐛𝐢𝐧𝐞𝐦
+    <𝐛>𝐟𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞</𝐛>, <𝐛>𝐢𝐝𝐞𝐧𝐭𝐢𝐝𝐚𝐝𝐞 𝐯𝐢𝐬𝐮𝐚𝐥</𝐛> 𝐞 <𝐛>𝐚𝐭𝐞𝐧𝐜̧𝐚̃𝐨 𝐚𝐨𝐬 𝐝𝐞𝐭𝐚𝐥𝐡𝐞𝐬</𝐛>.
   </p>
 
 </div>
