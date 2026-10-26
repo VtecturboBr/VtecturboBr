@@ -23,7 +23,7 @@
 
 ```text
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí,
- com interesse em front-end, tecnologia e experiências digitais.
+com interesse em front-end, tecnologia e experiências digitais.
 ```
 
 <p align="center">
@@ -32,9 +32,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí,
 
 ## `02 / TECNOLOGIAS`
 
-<!-- Edite a linha abaixo para refletir as tecnologias que você realmente utiliza. -->
-
-`Java` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git`
+`React` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git`
 
 **Áreas de interesse:** desenvolvimento web, interfaces, design de interação e projetos experimentais.
 
