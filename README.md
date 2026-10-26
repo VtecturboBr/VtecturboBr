@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ＬＩＮⓄ</h3>
+      <h3>ＬＩＮ🅞</h3>
       <p>protótipo de hero shooter em primeira pessoa, construído com tecnologias web.</p>
       <a href="https://github.com/VtecturboBr/LIN0---Web-Hero-Shooter-Game">Explorar projeto ↗</a>
     </td>
