@@ -26,6 +26,10 @@
 𝐜𝐨𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐞 𝐞𝐦 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐉𝐨𝐠𝐨𝐬 𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬.
 ```
 
+```
+![Visitor Count](https : //profile-counter.glitch.me/{VtecturboBr}/count.svg)
+```
+
 <p align="center">
   <img src="./assets/red-divider.png" alt="" width="90%">
 </p>
