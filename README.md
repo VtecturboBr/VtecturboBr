@@ -27,7 +27,7 @@
 ```
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{VtecturboBr}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{VtecturboBr}/count.svg)
 ```
 
 <p align="center">
