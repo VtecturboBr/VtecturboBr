@@ -55,20 +55,11 @@
     &nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/git/E90530" alt="Git" width="45" height="45">
   </p>
-
-  <p>
-    <strong>Áreas de interesse:</strong> desenvolvimento web, interfaces, design de interação e projetos experimentais.
-  </p>
-
 </div>
-
-
 <br>
-
 <h2 align="center">
   <code>ＰＲＯＪＥＴＯＳ　ＥＭ　ＤＥＳＴＡＱＵＥ</code>
 </h2>
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
@@ -83,10 +74,8 @@
 </td>
 </tr>
 </table>
-
 <br>
-
-<div align="center">
+<div align="center">        
   <img src="./red-divider3.png" alt="Divisor tribal vermelho" width="100%">
   <sub>Obrigado por visitar meu perfil.</sub>
 </div>
