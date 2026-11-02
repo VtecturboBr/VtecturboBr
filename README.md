@@ -37,18 +37,31 @@
   <code>ＴＥＣＮＯＬＯＧＩＡＳ</code>
 </h2>
 
+
+<h2 align="center">
+  <code>０２　／　ＴＥＣＮＯＬＯＧＩＡＳ</code>
+</h2>
+
 <div align="center">
+
   <p>
-    <code>React</code> &nbsp;
-    <code>JavaScript</code> &nbsp;
-    <code>HTML</code> &nbsp;
-    <code>CSS</code> &nbsp;
-    <code>Git</code>
+    <img src="https://cdn.simpleicons.org/react/E90530" alt="React" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/javascript/E90530" alt="JavaScript" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/html5/E90530" alt="HTML5" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/css/E90530" alt="CSS" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/git/E90530" alt="Git" width="45" height="45">
   </p>
+
   <p>
     <strong>Áreas de interesse:</strong> desenvolvimento web, interfaces, design de interação e projetos experimentais.
   </p>
+
 </div>
+
 
 <br>
 
