@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./supra-banner.png" alt="Carro esportivo em garagem escura, com elementos tribais em vermelho" width="100%">
   <img src="./red-divider3.png" alt="Divisor tribal vermelho" width="100%">
-  <h3><samp>𝙎𝙊𝙁𝙏𝙒𝘼𝙍𝙀 / 𝙄𝙉𝙏𝙀𝙍𝙁𝘼𝘾𝙀𝙎 / 𝙅𝙊𝙂𝙊𝙎</samp></h3>
+  <h1><samp>𝙎𝙊𝙁𝙏𝙒𝘼𝙍𝙀 / 𝙄𝙉𝙏𝙀𝙍𝙁𝘼𝘾𝙀𝙎 / 𝙅𝙊𝙂𝙊𝙎</samp></h1>
   <img src="./red-name3.png" alt="nome" width="100%">
   <p>
     𝐆𝐨𝐬𝐭𝐨 𝐝𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐫 𝐢𝐝𝐞𝐢𝐚𝐬 𝐞𝐦 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐞 𝐜𝐫𝐢𝐚𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬 𝐪𝐮𝐞 𝐜𝐨𝐦𝐛𝐢𝐧𝐞𝐦
@@ -17,10 +17,10 @@
 </h2>
 
 <div align="center">
-  <p>
+  <h1>
     𝐒𝐨𝐮 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚 𝐧𝐚 𝐅𝐀𝐓𝐄𝐂 𝐉𝐚𝐜𝐚𝐫𝐞𝐢́,
     𝐜𝐨𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐞 𝐞𝐦 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐉𝐨𝐠𝐨𝐬 𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬.
-  </p>
+  <h1>
 </div>
 
 <br>
