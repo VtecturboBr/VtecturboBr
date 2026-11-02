@@ -17,15 +17,15 @@
 
 </div>
 
-<br>
 <div align="center">
+
 ## `０１　／　ＳＯＢＲＥ`
-</br>
-  
-```text
-𝐒𝐨𝐮 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚 𝐧𝐚 𝐅𝐀𝐓𝐄𝐂 𝐉𝐚𝐜𝐚𝐫𝐞𝐢́,
-𝐜𝐨𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐞 𝐞𝐦 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐉𝐨𝐠𝐨𝐬 𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬.
-```
+
+<p>
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí,<br>
+com interesse em front-end, jogos e experiências digitais.
+</p>
+
 </div>
 
 ## `０２　／　ＴＥＣＮＯＬＯＧＩＡＳ`
