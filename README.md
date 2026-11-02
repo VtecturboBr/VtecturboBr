@@ -6,9 +6,9 @@
 
   <img src="./red-divider.png" alt="Divisor tribal vermelho" width="100%">
 
-  <p><samp>SOFTWARE  /  INTERFACES  /  JOGOS</samp></p>
+  <p><samp>𝙎𝙊𝙁𝙏𝙒𝘼𝙍𝙀 / 𝙄𝙉𝙏𝙀𝙍𝙁𝘼𝘾𝙀𝙎 / 𝙅𝙊𝙂𝙊𝙎</samp></p>
   
-
+<img src="./red-name.png" alt="nome" width="100%">
 
 
 
