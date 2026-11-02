@@ -27,7 +27,7 @@
 ```
 
 <p align="center">
-  <img src="./assets/red-divider.png" alt="" width="90%">
+  <img src="./red-divider.png" alt="" width="90%">
 </p>
 
 ## `０２　／　ＴＥＣＮＯＬＯＧＩＡＳ`
