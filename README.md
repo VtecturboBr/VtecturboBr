@@ -13,7 +13,7 @@
 <br>
 
 <h2 align="center">
-  <code>０１　／　ＳＯＢＲＥ</code>
+  <code>ＳＯＢＲＥ</code>
 </h2>
 
 <div align="center">
@@ -26,7 +26,7 @@
 <br>
 
 <h2 align="center">
-  <code>０２　／　ＴＥＣＮＯＬＯＧＩＡＳ</code>
+  <code>ＴＥＣＮＯＬＯＧＩＡＳ</code>
 </h2>
 
 <div align="center">
@@ -45,13 +45,13 @@
 <br>
 
 <h2 align="center">
-  <code>０３　／　ＰＲＯＪＥＴＯＳ　ＥＭ　ＤＥＳＴＡＱＵＥ</code>
+  <code>ＰＲＯＪＥＴＯＳ　ＥＭ　ＤＥＳＴＡＱＵＥ</code>
 </h2>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>ＬＩＮ🅞</h3>
+<h3>ＬＩＮ０</h3>
 <p>protótipo de hero shooter em primeira pessoa, construído com tecnologias web.</p>
 <p><a href="https://github.com/VtecturboBr/LIN0---Web-Hero-Shooter-Game">Explorar projeto ↗</a></p>
 </td>
