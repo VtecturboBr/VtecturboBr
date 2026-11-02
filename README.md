@@ -26,19 +26,11 @@
 𝐜𝐨𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐞 𝐞𝐦 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐉𝐨𝐠𝐨𝐬 𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬.
 ```
 
-<p align="center">
-  <img src="./red-divider.png" alt="" width="90%">
-</p>
-
 ## `０２　／　ＴＥＣＮＯＬＯＧＩＡＳ`
 
 `React` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git`
 
 **Áreas de interesse:** desenvolvimento web, interfaces, design de interação e projetos experimentais.
-
-<p align="center">
-  <img src="./red-divider.png" alt="" width="90%">
-</p>
 
 ## `０３　／　ＰＲＯＪＥＴＯＳ　ＥＭ　ＤＥＳＴＡＱＵＥ`
 
