@@ -8,9 +8,15 @@
 
   <p><samp>SOFTWARE  /  INTERFACES  /  JOGOS</samp></p>
   
-<div align="center">
-  $\color{#FF0033}{\text{Alef!}}$
-</div>
+
+
+
+
+
+
+
+
+
 
   <p>
     𝐆𝐨𝐬𝐭𝐨 𝐝𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐫 𝐢𝐝𝐞𝐢𝐚𝐬 𝐞𝐦 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐞 𝐜𝐫𝐢𝐚𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞̂𝐧𝐜𝐢𝐚𝐬 𝐝𝐢𝐠𝐢𝐭𝐚𝐢𝐬 𝐪𝐮𝐞 𝐜𝐨𝐦𝐛𝐢𝐧𝐞𝐦
