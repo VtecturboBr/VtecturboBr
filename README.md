@@ -37,7 +37,7 @@
 **Áreas de interesse:** desenvolvimento web, interfaces, design de interação e projetos experimentais.
 
 <p align="center">
-  <img src="./assets/red-divider.png" alt="" width="90%">
+  <img src="./red-divider.png" alt="" width="90%">
 </p>
 
 ## `０３　／　ＰＲＯＪＥＴＯＳ　ＥＭ　ＤＥＳＴＡＱＵＥ`
