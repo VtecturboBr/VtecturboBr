@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="./supra-banner.png" alt="Carro esportivo em garagem escura, com elementos tribais em vermelho" width="100%">
-  <img src="./red-divider.png" alt="Divisor tribal vermelho" width="100%">
+  <img src="./red-divider2.png" alt="Divisor tribal vermelho" width="100%">
   <p><samp>𝙎𝙊𝙁𝙏𝙒𝘼𝙍𝙀 / 𝙄𝙉𝙏𝙀𝙍𝙁𝘼𝘾𝙀𝙎 / 𝙅𝙊𝙂𝙊𝙎</samp></p>
   <img src="./red-name3.png" alt="nome" width="100%">
   <p>
@@ -66,6 +66,6 @@
 <br>
 
 <div align="center">
-  <img src="./red-divider.png" alt="Divisor tribal vermelho" width="100%">
+  <img src="./red-divider2.png" alt="Divisor tribal vermelho" width="100%">
   <sub>Obrigado por visitar meu perfil.</sub>
 </div>
