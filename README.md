@@ -20,7 +20,7 @@
          𝐒𝐨𝐮 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚 𝐧𝐚 𝐅𝐀𝐓𝐄𝐂 𝐉𝐚𝐜𝐚𝐫𝐞𝐢́, 𝐜𝐨𝐦 𝐟𝐨𝐜𝐨 𝐞𝐦 𝐝𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐰𝐞𝐛, 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐞 𝐣𝐨𝐠𝐨𝐬.
 
 𝐓𝐞𝐧𝐡𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐬𝐞 𝐞𝐦 𝐮𝐧𝐢𝐫 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨, 𝐝𝐞𝐬𝐢𝐠𝐧 𝐞 𝐜𝐫𝐢𝐚𝐭𝐢𝐯𝐢𝐝𝐚𝐝𝐞 𝐩𝐚𝐫𝐚 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐫 𝐢𝐝𝐞𝐢𝐚𝐬 𝐞𝐦 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐟𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐢𝐬, 𝐜𝐨𝐦 𝐢𝐝𝐞𝐧𝐭𝐢𝐝𝐚𝐝𝐞 𝐯𝐢𝐬𝐮𝐚𝐥 𝐞 𝐚𝐭𝐞𝐧𝐜̧𝐚̃𝐨 𝐚𝐨𝐬 𝐝𝐞𝐭𝐚𝐥𝐡𝐞𝐬.
-  <h2>
+  </h2>
     
   </div>
 
@@ -42,6 +42,14 @@
     <img src="https://cdn.simpleicons.org/css/E90530" alt="CSS" width="45" height="45">
     &nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/git/E90530" alt="Git" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/threedotjs/E90530" alt="Three.js" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/postgresql/E90530" alt="PostgreSQL" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/nodedotjs/E90530" alt="Node.js" width="45" height="45">
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/python/E90530" alt="Python" width="45" height="45">
   </p>
   
 </div>
@@ -63,6 +71,42 @@
 <h3>SCRUM DUNGEON</h3>
 <p>Aprender Scrum também pode ser uma aventura. Um RPG educativo com cinco níveis, desafios e conquistas, desenvolvido pela equipe Octopus Code.</p>
 <p><a href="https://github.com/octopusCode26/scrum-dungeon">Explorar projeto ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>SHIFT//BREAK</h3>
+<p>Portfólio 3D em desenvolvimento, com ambiente explorável, sistema operacional interativo e minijogos.</p>
+<p><a href="https://github.com/VtecturboBr/SHIFT-BREAK">Explorar projeto ↗</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>EcoByteMetrics</h3>
+<p>Plataforma de monitoramento do consumo energético e das emissões de carbono de software, desenvolvida pela equipe PentaScripts.</p>
+<p><a href="https://github.com/pentascripts-organization/EcoByteMetrics">Explorar projeto ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>Spirit Duel</h3>
+<p>Protótipo de jogo 3D para navegador que combina corridas de montanha, drift e combate espiritual.</p>
+<p><a href="https://github.com/VtecturboBr/Spirit-Duel">Explorar projeto ↗</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>RECALL</h3>
+<p>Aplicativo desktop em desenvolvimento para notas, lembretes, organização e foco.</p>
+<p><a href="https://github.com/VtecturboBr/RECALL">Explorar projeto ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>SkyFetch</h3>
+<p>Buscador acadêmico de voos fictícios com Python, Flask, PostgreSQL e consultas em linguagem textual restrita.</p>
+<p><a href="https://github.com/VtecturboBr/SkyFetch">Explorar projeto ↗</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>CodeInspector</h3>
+<p>Analisador de delimitadores de código com estruturas de pilha, destaque de sintaxe e localização visual de erros.</p>
+<p><a href="https://github.com/VtecturboBr/CodeInspector">Explorar projeto ↗</a></p>
 </td>
 </tr>
 </table>
